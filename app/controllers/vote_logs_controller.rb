@@ -1,0 +1,2 @@
+class VoteLogsController < ApplicationController
+end
